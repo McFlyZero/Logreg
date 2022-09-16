@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Logreg</string>
+    <string name="btn_signup">REGISTRO</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_salir">CERRAR SESION</string>
+    <string name="btn_volver">VOLVER</string>
+    <string name="btn_registrar">REGISTRAR</string>
+    <string name="tv_inicio">¡Bienvenido!</string>
+    <string name="tv_registro">Introduzca sus datos</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="reg_username">Nombre de usuario</string>
+    <string name="reg_password">Contraseña</string>
+    <string name="reg_confpassword">Confirmar contraseña</string>
+    <string name="reg_email">Correo electrónico</string>
+    <string name="msgwelcome">¡Bienvenido a la aplicación!</string>
+
+    <string-array name="nacionalidades">
+        <item>México</item>
+        <item>Estados Unidos</item>
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Guatemala</item>
+        <item>Chile</item>
+    </string-array>
+</resources>
